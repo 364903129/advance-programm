@@ -1,0 +1,48 @@
+./yshell build Jul 16 2019 19:14:07
+% mkdir dir
+% cd dir
+% mkdir dir2
+% mkdir dir3
+% cd dir3
+% pwd
+/dir/dir3
+% make file with stuff
+% make another file with stuff
+% cat fle another
+cat: cannot find file fle
+file with stuff
+% echo what happened?  the previous command is bad
+what happened? the previous command is bad
+% prompt ysh:
+ysh: ls .
+/dir/dir3 :
+	4	4    .
+	2	4    ..
+	6	15    another
+	5	10    file
+ysh: ls ..
+/dir :
+	2	4    .
+	1	3    ..
+	3	2    dir2/
+	4	4    dir3/
+ysh: lsr /
+/ :
+	1	3    .
+	1	3    ..
+	2	4    dir/
+/dir :
+	2	4    .
+	1	3    ..
+	3	2    dir2/
+	4	4    dir3/
+/dir/dir2 :
+	3	2    .
+	2	4    ..
+/dir/dir3 :
+	4	4    .
+	2	4    ..
+	6	15    another
+	5	10    file
+ysh: ysh: ysh: ysh: ysh: ^D
+yshell: exit(0)

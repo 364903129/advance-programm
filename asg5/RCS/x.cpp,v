@@ -1,0 +1,32 @@
+head	1.1;
+access;
+symbols;
+locks;
+comment	@// @;
+
+
+1.1
+date	2019.08.10.01.38.37;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@-
+@
+text
+@#include <iostream>
+using namespace std;
+
+#include "rgbcolor.h"
+
+int main() {
+   rgbcolor red {"red"};
+   cout << red << endl;
+}
+@

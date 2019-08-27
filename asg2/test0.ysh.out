@@ -1,0 +1,9 @@
+./yshell build Jul 16 2019 19:14:07
+% pwd
+/
+% echo Hello World
+Hello World
+% echo This is a very simple test.
+This is a very simple test.
+% % % % % % ^D
+yshell: exit(0)

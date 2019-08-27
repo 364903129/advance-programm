@@ -1,0 +1,363 @@
+checksource: improper character \x00 = ^@
+   file "Listing.colors.cppgen.pdf": 103 errors: lines 6, 8, 12, 22--24, 
+        27--28, 36--38, 48--50, 58, 60, 62--64, 74--74, 76--77, 80--80, 
+        91--92, 95--95, 103--103, 105--105, 114--118, 120--121, 
+        130--131, 134--135, 144--147, 159, 161--164, 174--175, 178, 181, 
+        189--190
+checksource: improper character \x01 = ^A
+   file "Listing.colors.cppgen.pdf": 114 errors: lines 23--24, 26--27, 
+        36--39, 47--50, 58--59, 62--64, 74--74, 77--82, 92--95, 
+        105--105, 113--114, 116--117, 120, 129--130, 134, 143--145, 
+        147--147, 149, 159--159, 163--164, 172, 175--175, 178--178, 181, 
+        189--190
+checksource: improper character \x02 = ^B
+   file "Listing.colors.cppgen.pdf": 109 errors: lines 6--6, 8--9, 
+        13--14, 23--24, 26--27, 36--37, 47--50, 58, 63, 72, 74--74, 80, 
+        90--90, 92--93, 95--95, 103--105, 114--115, 117--117, 120--121, 
+        129--130, 132, 134--135, 143--145, 147--147, 149, 159, 161--161, 
+        163--164, 175--175, 178--179, 189--189
+checksource: improper character \x03 = ^C
+   file "Listing.colors.cppgen.pdf": 75 errors: lines 7--8, 26, 36--38, 
+        48--50, 58--58, 60--62, 73, 76, 78--81, 90, 92--93, 95, 103, 
+        105--105, 114--114, 117, 119, 134, 147--147, 149, 151, 159--159, 
+        161--162, 175--175, 178, 189--190
+checksource: improper character \x04 = ^D
+   file "Listing.colors.cppgen.pdf": 87 errors: lines 6--6, 8--8, 14, 
+        24, 27, 36--38, 49--50, 58--59, 62--64, 72, 74--75, 79, 92--93, 
+        95--95, 105--105, 113--115, 117, 120, 129, 135, 145--145, 147, 
+        149, 159--159, 161--163, 175--175, 178, 189--190
+checksource: improper character \x05 = ^E
+   file "Listing.colors.cppgen.pdf": 66 errors: lines 6, 8, 13, 23--24, 
+        26--27, 36--37, 47, 50--50, 58, 61--62, 74, 76, 78--81, 103, 
+        105--105, 114--115, 117--117, 119, 121, 129--130, 132, 143--143, 
+        146--147, 149, 163--164, 174--175, 178--179, 189--189
+checksource: improper character \x06 = ^F
+   file "Listing.colors.cppgen.pdf": 90 errors: lines 8--8, 10, 14, 23, 
+        27--27, 36--36, 38, 47--50, 58--62, 74--82, 91--93, 95, 
+        103--105, 114, 116--117, 121, 133, 143--145, 149, 164, 172, 
+        175--175, 178, 189
+checksource: improper character \x07 = ^G
+   file "Listing.colors.cppgen.pdf": 58 errors: lines 7--8, 22, 26--27, 
+        36--39, 48, 58, 62, 64, 74--74, 90--92, 95, 103, 105--105, 117, 
+        129--130, 134--135, 143--144, 146--147, 151, 159, 163--164, 
+        178--179, 189--189
+checksource: improper character \x08 = ^H
+   file "Listing.colors.cppgen.pdf": 79 errors: lines 8--8, 10, 12, 14, 
+        22, 27, 36--36, 48--50, 62--62, 64, 74, 76, 92--92, 94--95, 103, 
+        105--105, 114--114, 116--117, 121--121, 129--130, 132, 134, 
+        145--147, 149, 151, 159--159, 161--164, 172, 175--175, 189--189
+checksource: improper character \x09 = ^I (tab)
+   file "Listing.colors.cppgen.pdf": 79 errors: lines 7--9, 12--12, 14, 
+        22, 24--24, 26--27, 36--36, 38, 48--50, 58--59, 63--64, 74, 
+        76--82, 91--93, 95, 103--103, 105--105, 117--117, 120, 130--132, 
+        134--135, 143, 145, 149--149, 161--162, 175--175, 178--179, 181, 
+        189--189
+   file "Listing.colors.cppgen.ps": 292 errors: lines 18, 21, 25, 
+        31--31, 59, 82, 90, 98, 109--109, 118--118, 153, 175--177, 185, 
+        227, 240, 252--252, 261, 287, 298--300, 315, 329--392, 425, 442, 
+        504--505
+checksource: improper character \x0B = ^K
+   file "Listing.colors.cppgen.pdf": 54 errors: lines 12--14, 23, 
+        36--36, 59, 63--64, 74--74, 90--93, 103--103, 105--105, 114, 
+        117, 129--130, 134--135, 144, 147, 164, 175--175, 177--178, 180, 
+        189--190
+checksource: improper character \x0D = ^M (carriage return)
+   file "Listing.colors.cppgen.pdf": 43 errors: lines 7--10, 27--27, 36, 
+        38--39, 47--50, 58--59, 76--76, 78--79, 91, 105--105, 114--114, 
+        119, 129--130, 135--135, 145, 151, 159, 161, 174, 189--189
+checksource: improper character \x0E = ^N
+   file "Listing.colors.cppgen.pdf": 67 errors: lines 6, 8--8, 12--13, 
+        22--22, 27--27, 36--39, 47, 49--49, 58--58, 63, 72--72, 74--74, 
+        79, 91, 95--95, 103--103, 105--105, 114, 116, 130--130, 
+        135--135, 143--145, 151, 163--164, 172, 175--175, 177--178, 
+        189--190
+checksource: improper character \x0F = ^O
+   file "Listing.colors.cppgen.pdf": 43 errors: lines 8--8, 12, 22--23, 
+        36--37, 47--48, 58--59, 72--74, 92, 95--95, 103--103, 105--105, 
+        113--115, 117--117, 135, 145, 147--148, 161, 164--164, 189--190
+checksource: improper character \x10 = ^P
+   file "Listing.colors.cppgen.pdf": 88 errors: lines 6, 12--12, 22--24, 
+        36--37, 47, 49--50, 58--59, 62--64, 72, 74, 80, 92--93, 95, 
+        103--105, 113--117, 120--121, 129--131, 135, 143, 145--147, 159, 
+        161--163, 172, 175--175, 179, 189--189
+checksource: improper character \x11 = ^Q
+   file "Listing.colors.cppgen.pdf": 49 errors: lines 6--6, 8, 11, 26, 
+        36--36, 38, 48--50, 62, 82, 90, 92, 95--95, 104--105, 114, 121, 
+        129--130, 135, 145, 147--147, 151, 162--162, 173, 175--175, 
+        178--178, 189--190
+checksource: improper character \x12 = ^R
+   file "Listing.colors.cppgen.pdf": 45 errors: lines 9, 11--12, 22--22, 
+        24--24, 26--27, 36--36, 49--50, 58, 62, 74, 90, 92, 95, 
+        103--103, 105--105, 129--130, 145, 147, 159, 162, 175, 180, 
+        189--190
+checksource: improper character \x13 = ^S
+   file "Listing.colors.cppgen.pdf": 63 errors: lines 6--7, 12--13, 
+        24--24, 27, 38--39, 48, 50, 74, 77--82, 90--91, 95, 103--105, 
+        114--114, 121, 129--129, 135, 144--145, 147--148, 151, 161--161, 
+        163--164, 172, 175--175, 178, 189--190
+checksource: improper character \x14 = ^T
+   file "Listing.colors.cppgen.pdf": 73 errors: lines 6, 8--10, 12, 
+        22--24, 27--27, 36--37, 48, 50, 64, 72, 74--74, 76--78, 82, 90, 
+        95, 103--105, 113--115, 117--117, 121--121, 129--129, 132--133, 
+        135, 144--144, 149--149, 159--159, 162--163, 172, 174--175, 
+        178--178, 180--181, 189--190
+checksource: improper character \x15 = ^U
+   file "Listing.colors.cppgen.pdf": 48 errors: lines 8, 10, 13, 23--24, 
+        26--27, 36, 38--38, 47--48, 58, 72--73, 80, 90, 92--93, 95, 
+        103--105, 113, 115--117, 121, 129, 143, 145, 147, 163--164, 175, 
+        177--178, 180, 189--189
+checksource: improper character \x16 = ^V
+   file "Listing.colors.cppgen.pdf": 64 errors: lines 7, 12--12, 14--14, 
+        23--24, 36--37, 47--49, 58, 63--63, 72, 74, 80, 90, 92, 95--95, 
+        104--105, 114--115, 120--121, 130, 135, 144--144, 147, 162--163, 
+        178--178, 180--180, 189--189
+checksource: improper character \x17 = ^W
+   file "Listing.colors.cppgen.pdf": 71 errors: lines 8, 13, 23--24, 27, 
+        36--36, 39, 47--50, 58--58, 60, 62--62, 74--74, 76, 78--79, 81, 
+        90, 92--93, 95, 103--105, 113--115, 118, 121, 129--130, 
+        134--135, 144--145, 147--147, 149, 159, 163--163, 172, 175--175, 
+        178, 189
+checksource: improper character \x18 = ^X
+   file "Listing.colors.cppgen.pdf": 105 errors: lines 6--9, 12--12, 22, 
+        24, 26, 36--38, 48--50, 59--59, 62--64, 74--74, 76--77, 79--80, 
+        91--93, 95--95, 103--103, 105--105, 114--115, 117--117, 
+        120--121, 129--130, 134--134, 145, 159--159, 162--164, 173, 
+        175--175, 178--178, 189--190
+checksource: improper character \x19 = ^Y
+   file "Listing.colors.cppgen.pdf": 77 errors: lines 6, 10--10, 23, 
+        27--27, 48--48, 50--50, 58, 62--64, 74, 76, 90--92, 95--95, 
+        103--105, 113, 115--117, 119--121, 129--130, 134--135, 145, 
+        147--147, 159--159, 161--161, 163, 175, 177--179, 189--189
+checksource: improper character \x1A = ^Z
+   file "Listing.colors.cppgen.pdf": 36 errors: lines 10, 22, 26--28, 
+        36--36, 38, 49--50, 58--58, 62--63, 91, 95--95, 103, 105, 
+        113--114, 120, 135, 145, 147--147, 161--162, 175, 180
+checksource: improper character \x1B = ^[
+   file "Listing.colors.cppgen.pdf": 37 errors: lines 9, 27, 36--36, 39, 
+        48--49, 58, 64, 74, 90--91, 95, 104--105, 114, 120, 129--130, 
+        144--144, 147, 151, 159--159, 164, 172, 175--175, 178, 180, 
+        189--189
+checksource: improper character \x1C = ^\
+   file "Listing.colors.cppgen.pdf": 66 errors: lines 12--13, 23--24, 
+        27--28, 36--39, 49--49, 58--58, 72, 74--76, 90--92, 95, 103, 
+        105--105, 114--114, 117--117, 121--121, 129--130, 133--134, 147, 
+        149, 161--161, 163--164, 175, 178--178, 180, 189--189
+checksource: improper character \x1D = ^]
+   file "Listing.colors.cppgen.pdf": 40 errors: lines 8--8, 12--14, 
+        26--27, 38--39, 49--50, 58--58, 64, 74--74, 90--91, 103--105, 
+        113--114, 117, 130, 144, 159--160, 162--164, 180, 189--189
+checksource: improper character \x1E = ^^
+   file "Listing.colors.cppgen.pdf": 58 errors: lines 9, 13--13, 24, 
+        26--27, 36, 38--38, 47--48, 50, 58--58, 62, 64, 74, 95--95, 
+        105--105, 113--117, 119, 130--130, 132, 144--145, 147--147, 
+        159--159, 161--164, 175, 178--180, 189--189
+checksource: improper character \x1F = ^_
+   file "Listing.colors.cppgen.pdf": 58 errors: lines 8--10, 12, 23--24, 
+        26--27, 36--38, 47, 58, 72, 74--74, 90--91, 95, 103--105, 
+        114--114, 121, 129--130, 143--145, 147, 159, 161--164, 178, 181, 
+        189--189
+checksource: improper character \x7F
+   file "Listing.colors.cppgen.pdf": 53 errors: lines 8--9, 23--24, 
+        27--28, 36--36, 48--49, 58--58, 73--74, 90--91, 103--105, 
+        113--116, 121, 129--130, 135--135, 144--144, 147, 161--162, 164, 
+        181, 189--189
+checksource: improper character \x80
+   file "Listing.colors.cppgen.pdf": 115 errors: lines 6--7, 12--13, 
+        22--24, 26--27, 36--38, 47--50, 58--58, 62--64, 72--72, 74--76, 
+        78--80, 93--93, 95--95, 103--105, 114--117, 120--121, 129, 
+        131--132, 135, 144, 146--147, 149--149, 151, 159, 162--164, 
+        174--175, 177--181, 189--189
+checksource: improper character \x81
+   file "Listing.colors.cppgen.pdf": 82 errors: lines 10, 12--13, 
+        23--24, 27, 36--36, 38--39, 49--50, 58--58, 60--62, 74, 92--95, 
+        103, 105--105, 113, 117--117, 121, 129--130, 135--135, 144--145, 
+        147--147, 161--161, 163--164, 175, 177--178, 189--189
+checksource: improper character \x82
+   file "Listing.colors.cppgen.pdf": 70 errors: lines 12--12, 23--24, 
+        28, 36--37, 47, 49--50, 58--58, 62--63, 74, 76--82, 92, 95--95, 
+        105--105, 113--114, 117, 120--120, 129--130, 132, 144--145, 
+        147--147, 161, 175--175, 177--178, 181, 189--190
+checksource: improper character \x83
+   file "Listing.colors.cppgen.pdf": 86 errors: lines 8, 10, 14, 26--27, 
+        36--37, 39--39, 47, 49--50, 58--59, 62--64, 74--74, 76--76, 
+        78--81, 92--95, 103, 105--105, 130--130, 143--145, 147--147, 
+        159, 161--163, 174--175, 180--181, 189--190
+checksource: improper character \x84
+   file "Listing.colors.cppgen.pdf": 43 errors: lines 6, 10, 22, 24--24, 
+        36--37, 39, 49--50, 58, 74, 77--80, 82--82, 104--105, 114, 
+        117--117, 121, 130--130, 135, 147--147, 162--162, 174--175, 177, 
+        189--189
+checksource: improper character \x85
+   file "Listing.colors.cppgen.pdf": 66 errors: lines 10--13, 24, 
+        26--27, 36--37, 48--50, 58--58, 61--64, 74, 92, 105--105, 114, 
+        116, 130--130, 134--135, 143, 145--145, 147, 161--164, 175--175, 
+        177--178, 180--181, 190
+checksource: improper character \x86
+   file "Listing.colors.cppgen.pdf": 62 errors: lines 6, 12--12, 14, 22, 
+        26, 36--38, 47--49, 58--59, 63, 72, 92, 103--103, 105--105, 
+        113--114, 118, 121--121, 129--130, 143--146, 159--159, 162--164, 
+        172, 175--175, 178--178, 180--180, 189--190
+checksource: improper character \x87
+   file "Listing.colors.cppgen.pdf": 73 errors: lines 6--8, 10, 13, 
+        24--25, 27--27, 36--38, 48--49, 58--58, 78, 80, 90--91, 95--95, 
+        104--105, 113, 117--117, 121--121, 129--130, 134--135, 144, 147, 
+        159, 161--162, 174--175, 178--179, 189--189
+checksource: improper character \x88
+   file "Listing.colors.cppgen.pdf": 41 errors: lines 6, 8--8, 12--13, 
+        36--36, 38--38, 49, 61--62, 74, 76, 79--80, 90--90, 103, 
+        105--105, 114, 129--130, 134--134, 144--147, 159, 161, 164, 
+        174--175, 189--189
+checksource: improper character \x89
+   file "Listing.colors.cppgen.pdf": 40 errors: lines 8--8, 12--12, 22, 
+        27--27, 36--36, 47--48, 58, 72, 90, 92, 103--104, 117, 120, 
+        129--130, 134--135, 143, 145, 147--147, 159, 161, 163--164, 175, 
+        189
+checksource: improper character \x8A
+   file "Listing.colors.cppgen.pdf": 54 errors: lines 7, 9, 11--13, 
+        22--23, 27, 36--36, 38, 47--48, 62, 74, 76, 80--81, 90, 92, 
+        113--115, 129--130, 135, 143--145, 147--147, 161--161, 163--164, 
+        177--178, 189
+checksource: improper character \x8B
+   file "Listing.colors.cppgen.pdf": 43 errors: lines 8--9, 12--13, 
+        22--24, 36--36, 47, 50, 58, 74--74, 78--79, 81, 91, 103--104, 
+        115, 117, 129--130, 133--134, 162--164, 175--176, 178, 189--189
+checksource: improper character \x8C
+   file "Listing.colors.cppgen.pdf": 85 errors: lines 12, 22--24, 
+        26--27, 36--38, 48--48, 50--50, 58--58, 62--62, 64--64, 74, 78, 
+        91, 93, 95--95, 105--105, 114--115, 117, 120--121, 129--130, 
+        132, 134--135, 144--144, 146--147, 159, 161--164, 175--175, 
+        178--179, 181, 189--189
+checksource: improper character \x8D
+   file "Listing.colors.cppgen.pdf": 65 errors: lines 9--10, 12, 23--24, 
+        27--27, 36--37, 39, 47--50, 58, 72--74, 79--79, 90--91, 103, 
+        105--105, 113--114, 116--117, 119, 129--130, 133--135, 143--144, 
+        159, 161--164, 175--176, 178--178, 180, 189--189
+checksource: improper character \x8E
+   file "Listing.colors.cppgen.pdf": 42 errors: lines 6, 8, 12--13, 
+        25--27, 36--36, 38, 48--49, 58, 63, 72, 104--105, 114--114, 
+        117--117, 129--130, 132, 134, 143--144, 147, 160--161, 175, 178, 
+        181, 189--189
+checksource: improper character \x8F
+   file "Listing.colors.cppgen.pdf": 40 errors: lines 2, 8--9, 12--13, 
+        36--37, 47--49, 58, 62, 64, 74, 91, 95, 104--105, 113--113, 120, 
+        129--129, 135, 145, 159, 161, 163--163, 172, 174, 178, 189--189
+checksource: improper character \x90
+   file "Listing.colors.cppgen.pdf": 38 errors: lines 7, 11, 14, 24, 27, 
+        36--36, 38, 59, 62--62, 74, 76, 90, 92--92, 103--105, 114, 
+        117--117, 129--130, 143, 147--147, 161, 164, 175, 177--178, 189
+checksource: improper character \x91
+   file "Listing.colors.cppgen.pdf": 53 errors: lines 8--9, 12--14, 
+        23--23, 27--27, 36--36, 38--39, 48--49, 62, 77, 92, 103--103, 
+        105--105, 113, 116, 129--130, 135, 143--144, 146--147, 151, 159, 
+        161, 164--164, 175--175, 178--178, 189--190
+checksource: improper character \x92
+   file "Listing.colors.cppgen.pdf": 59 errors: lines 8, 10--10, 13--13, 
+        22--24, 27, 36, 47--47, 50--50, 58, 62--64, 74, 92--93, 95--95, 
+        103--103, 105, 113, 116, 120, 129--130, 135, 143--144, 147--147, 
+        162, 172, 178--178, 189--190
+checksource: improper character \x93
+   file "Listing.colors.cppgen.pdf": 45 errors: lines 8--8, 12--13, 27, 
+        36, 48--50, 58--58, 63, 74, 92--95, 103--103, 105--105, 114, 
+        116--117, 129--130, 161--164, 172, 175, 178, 189--190
+checksource: improper character \x94
+   file "Listing.colors.cppgen.pdf": 41 errors: lines 23, 26--28, 
+        36--36, 50, 58, 60--62, 77, 91--92, 95, 103--105, 114--115, 121, 
+        129, 131, 135--135, 144--144, 162, 175--175, 178--178, 189
+checksource: improper character \x95
+   file "Listing.colors.cppgen.pdf": 40 errors: lines 8, 10, 12--12, 
+        23--24, 27, 36--36, 49--49, 78, 90--91, 95, 104--105, 114--114, 
+        116, 120--120, 130, 133, 135, 146, 162--163, 172--173, 175, 
+        189--190
+checksource: improper character \x96
+   file "Listing.colors.cppgen.pdf": 74 errors: lines 8--8, 10--10, 13, 
+        23--24, 26--27, 36--36, 38, 47, 49, 58, 72, 74, 82, 92--93, 
+        104--105, 114, 116--117, 120--121, 129--130, 133, 144--147, 151, 
+        161--164, 175--175, 178, 180--180, 189--189
+checksource: improper character \x97
+   file "Listing.colors.cppgen.pdf": 54 errors: lines 9, 12--13, 23--24, 
+        26--27, 36--36, 47--50, 58--58, 72, 74--74, 76, 90--91, 95, 104, 
+        113--113, 116, 121, 130--130, 147--147, 159, 163--164, 174--175, 
+        180, 189
+checksource: improper character \x98
+   file "Listing.colors.cppgen.pdf": 119 errors: lines 6, 12--13, 
+        22--24, 27--27, 36--36, 38--39, 47--50, 58--59, 62--64, 72, 74, 
+        76, 79--80, 90--90, 92--95, 103--103, 105--105, 113, 117--117, 
+        121--121, 129--130, 132--132, 134--135, 143--145, 147--147, 151, 
+        159--164, 172, 175--175, 178, 189--189
+checksource: improper character \x99
+   file "Listing.colors.cppgen.pdf": 53 errors: lines 8, 10, 13--14, 22, 
+        24--24, 36--36, 48--50, 63, 74, 76, 94--95, 103--105, 113, 
+        121--121, 129--130, 134--135, 143, 147, 159, 161--164, 174, 
+        178--178, 180--180, 189--189
+checksource: improper character \x9A
+   file "Listing.colors.cppgen.pdf": 54 errors: lines 8, 12--13, 23--24, 
+        26--26, 36--37, 48, 58, 74, 77--78, 82, 91, 104--105, 117, 
+        129--130, 134--135, 143--145, 159--159, 161--162, 164, 175--175, 
+        179, 189--189
+checksource: improper character \x9B
+   file "Listing.colors.cppgen.pdf": 51 errors: lines 8--9, 23--24, 
+        27--27, 36, 38, 47--48, 58, 90, 105--105, 113--114, 117, 
+        120--121, 129--130, 133--135, 144--145, 147, 159, 163--164, 
+        172--172, 175, 180--180, 189--190
+checksource: improper character \x9C
+   file "Listing.colors.cppgen.pdf": 67 errors: lines 6, 14, 22--23, 
+        36--36, 38, 47--50, 58--58, 63, 72, 74, 78--80, 82, 90, 93, 
+        95--95, 103--103, 105--105, 113--114, 117--117, 119, 129--129, 
+        134, 143--145, 147--147, 149, 159--161, 163--164, 172, 175--175, 
+        177--178, 189--189
+checksource: improper character \x9D
+   file "Listing.colors.cppgen.pdf": 71 errors: lines 6--6, 10, 12, 
+        22--22, 26--27, 36--37, 48--50, 58--58, 62--62, 64--64, 74, 77, 
+        79--80, 90--90, 92--93, 95--95, 103--105, 113--114, 120--121, 
+        129--130, 134--135, 143--145, 159, 161, 163, 172, 174--175, 178, 
+        189--190
+checksource: improper character \x9E
+   file "Listing.colors.cppgen.pdf": 44 errors: lines 7, 10--10, 24--24, 
+        36--36, 38, 58--58, 74, 80, 91, 95, 104--105, 119--120, 129, 
+        143, 149, 159--159, 175--175, 181, 189--190
+checksource: improper character \x9F
+   file "Listing.colors.cppgen.pdf": 49 errors: lines 8, 13--14, 23--24, 
+        27--28, 36--39, 48--48, 58--58, 63--63, 104, 114--114, 120--121, 
+        129--130, 134, 144--144, 147--148, 159, 161--162, 175--175, 181, 
+        189--189
+checksource: improper character \xA0
+   file "Listing.colors.cppgen.pdf": 65 errors: lines 7, 12--12, 22, 27, 
+        36--37, 39, 48--50, 58--58, 64--64, 74--74, 78, 92--95, 
+        105--105, 117--117, 120--121, 132--135, 145, 147--149, 159, 162, 
+        164--164, 175--175, 178--178, 180--180, 189--190
+checksource: line length > 144 characters
+   file "HEADER.html": 1 errors: line 16
+   file "Listing.colors.cppgen.pdf": 45 errors: lines 8, 12--13, 23--24, 
+        26--27, 36--38, 47--50, 58, 62, 74, 90--92, 95, 103--105, 114, 
+        117, 121, 129--130, 135, 143--145, 147, 159, 161, 163--164, 175, 
+        178, 189, 539--540, 543--544
+checksource: line length > 216 characters
+   file "Listing.colors.cppgen.pdf": 27 errors: lines 12, 23--24, 27, 
+        36, 48--50, 58, 74, 91, 95, 103, 105, 114, 129--130, 135, 144, 
+        147, 159, 161, 164, 175, 178, 189, 544
+checksource: line length > 288 characters
+   file "Listing.colors.cppgen.pdf": 15 errors: lines 24, 27, 36, 
+        49--50, 58, 74, 95, 105, 114, 130, 147, 175, 189, 544
+checksource: line length > 360 characters
+   file "Listing.colors.cppgen.pdf": 6 errors: lines 36, 58, 105, 130, 
+        175, 189
+checksource: line length > 432 characters
+   file "Listing.colors.cppgen.pdf": 5 errors: lines 36, 58, 105, 175, 
+        189
+checksource: line length > 504 characters
+   file "Listing.colors.cppgen.pdf": 3 errors: lines 36, 105, 189
+checksource: line length > 576 characters
+   file "Listing.colors.cppgen.pdf": 3 errors: lines 36, 105, 189
+checksource: line length > 648 characters
+   file "Listing.colors.cppgen.pdf": 2 errors: lines 36, 105
+checksource: line length > 72 characters
+   file "HEADER.html": 2 errors: lines 15--16
+   file "Listing.colors.cppgen.pdf": 70 errors: lines 6, 8--10, 12--14, 
+        22--24, 26--27, 36--39, 47--50, 58, 62--64, 72, 74, 76, 79, 
+        90--93, 95, 103--105, 113--115, 117, 120--121, 129--130, 
+        134--135, 143--147, 149, 159, 161--164, 172, 175, 178, 181, 
+        189--190, 537--540, 543--544, 643
+   file "Listing.colors.cppgen.ps": 2 errors: lines 98, 134
+checksource: line length > 720 characters
+   file "Listing.colors.cppgen.pdf": 1 errors: line 105
+checksource: TOTAL COMPLAINTS: 4556
